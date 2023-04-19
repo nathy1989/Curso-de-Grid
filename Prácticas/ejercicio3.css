@@ -1,0 +1,63 @@
+css*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #868383;
+    width: 80%;
+}
+
+.container{
+    background-color: blueviolet;
+    width: 98vw;
+}
+
+header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    
+}
+
+.film{
+    justify-content: baseline;
+    width: 100px;
+
+}
+
+
+.nav{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    height: 40px;
+    text-decoration: none;
+}
+
+
+.imag{
+    width: 98vw;
+
+}
+h2{
+    color: white;
+}
+
+.peliculas{
+    margin-left: 70px;
+    
+}
+
+ .peli{
+    display: inline-flex;
+    padding: 50px;
+} 
+
+.imagen1{
+    color: aqua;
+    display: inline-flex;
+    padding: 40px;
+    
+}
